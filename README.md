@@ -17,7 +17,8 @@ You can install the extension locally in Visual Studio Code:
 3. Click on the ellipsis (...) icon in the Extensions view and select "Install from VSIX...".
 4. Navigate to the location of the generated VSIX file and select it.
 5. Follow the prompts to complete the installation.
-
+6. 
+**Note**: This extension requires the Code Runner extension to be installed in Visual Studio Code. Make sure to install Code Runner from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) before using this extension.
 ## Building from Source
 
 If you prefer to build the extension from the source code yourself or want to customize it, follow these steps:
