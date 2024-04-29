@@ -25,7 +25,7 @@
     ],
     "menus": {
       "editor/title": [{
-        "when": "resourceLangId == cpp",
+        "when": "resourceLangId == cpp || resourceLangId == c || resourceLangId == python || resourceLangId == javascript",
         "command": "cpp-code-runner-button.runCppCode",
         "group": "navigation"
       }]
