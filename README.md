@@ -56,12 +56,6 @@ If you have any feedback, suggestions, or bug reports, feel free to [open an iss
 
 Contributions are welcome! If you'd like to contribute to the development of this extension, please [fork the repository](https://github.com/your-username/your-extension-name/fork) and submit a pull request.
 
-## License
-
-This extension is licensed under the [MIT License](LICENSE).
-
-
-
 ## Usage
 
 Once installed, you can use the 'Run Code' button added to the interface to compile and run your C++ code directly from the editor.
